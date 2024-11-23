@@ -1,4 +1,4 @@
-package com.github.kadehar.inno.exam1.task2.sensor;
+package com.github.kadehar.inno.exam1.task2;
 
 import java.time.LocalDate;
 

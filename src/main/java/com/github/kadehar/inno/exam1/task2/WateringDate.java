@@ -1,4 +1,6 @@
-package com.github.kadehar.inno.exam1.task2.sensor;
+package com.github.kadehar.inno.exam1.task2;
+
+import com.github.kadehar.inno.exam1.task2.sensor.HumiditySensor;
 
 import java.time.LocalDate;
 import java.time.Month;
